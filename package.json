@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-assert-is-row-major-string",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Test whether an input value is the string representing row-major order.",
   "license": "Apache-2.0",
   "author": {
